@@ -5,5 +5,5 @@ def repeat():
                         break
                 print(word)
 
-print("Welcome to CSAI!")
+print("Welcome to CSAI Spring quarter!")
 repeat()
